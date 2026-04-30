@@ -1,0 +1,5 @@
+Character
+Word
+Line
+File
+Folder
